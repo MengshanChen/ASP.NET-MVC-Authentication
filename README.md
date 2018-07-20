@@ -9,6 +9,7 @@ Visual Studio ASP.NET-MVC-Authentication
 
 4. Account Management
 
+* need to reenable google APIs
 
 
 Important Links >>> Microsoft: https://docs.microsoft.com/en-us/aspnet/mvc/overview/security/ & https://docs.microsoft.com/en-us/aspnet/aspnet/overview/owin-and-katana/getting-started-with-owin-and-katana
